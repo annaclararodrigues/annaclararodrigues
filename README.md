@@ -23,8 +23,7 @@ Full stack developer focused on **Java and Spring Boot** on the back end and **A
 
 ## 🚀 Featured Projects
 
-- **[Cyber Threat Detection Platform](https://github.com/annaclararodrigues/threatlens)**: full stack system built as an undergraduate research project, with a React front end and a Spring Boot + PostgreSQL back end.
-
+- **[ThreatLens](https://github.com/annaclararodrigues/threatlens)**: Cyber Threat Intelligence platform built as an undergraduate research project. Java 21 + Spring Boot API with JWT auth and two PostgreSQL databases, and a React dashboard with charts and word clouds.
 ## 📫 Contact
 
 [LinkedIn](https://linkedin.com/in/annaclararodrigues) · annaclara3003@hotmail.com
